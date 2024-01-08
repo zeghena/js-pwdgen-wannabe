@@ -15,6 +15,6 @@ const preferedcolor =prompt('Qual è il tuo colore preferito?');
 console.log(preferedcolor);
 
 //# concatenazione tre dati + 24
-firstname = secondname + firstname + preferedcolor + 24
-main_title.innertext = firstname;
+const password = secondname + firstname + preferedcolor + '24';
+resultElement.innerText= password;
 

@@ -20,4 +20,4 @@ Infine scrivi sulla pagina
 - Chiedi all'utente il suo nome
 - poi chiedi il suo cognome
 - poi chiedi il suo colore preferito
-- infine scrivi sulla pagina `nomecognomecolorepreferito24`
+- infine unisco con una concatenazione il nome + il cognome + il colore preferito + 24 che dato che e' un numero lo metto con gli apici per essere considerato come testo e quindi otterrò la password: `nomecognomecolorepreferito24`
